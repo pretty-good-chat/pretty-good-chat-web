@@ -1,5 +1,7 @@
 #Pretty Good Chat
 
+[![Join the chat at https://gitter.im/pretty-good-chat/pretty-good-chat-web](https://badges.gitter.im/pretty-good-chat/pretty-good-chat-web.svg)](https://gitter.im/pretty-good-chat/pretty-good-chat-web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 End to end encrypted chat based on PGP, made with :green_heart: by :alien: !
 
 This is the front-end of PGC. It uses Angular2 to provide awesome performances but mostly, we use Angular2 for the fun, because we love it !
