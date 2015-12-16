@@ -25,14 +25,16 @@ There are plenty of Angular2-seed out here, but [this one](https://github.com/gh
 
 ##How to contribute ?
 New contributors are always welcome !  
-Please have a look to the [issues](https://github.com/pretty-good-chat/pretty-good-chat-web/issues) of the project.
+Please have a look to the [issues](https://github.com/pretty-good-chat/pretty-good-chat-web/issues) of the project.  
+
+In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. When submitting a PR, make sure that the commit messages match the [Angular conventions](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit-message-format).  
 
 **You want to get involved and make a pull request ?**  
 1. Pick up an existing [issue](https://github.com/pretty-good-chat/pretty-good-chat-web/issues) or create your own to describe the problem/the new thing you want to implement  
 2. Fork this repo  
 3. Create your feature branch (`git checkout -b my-new-feature`)  
 4. Commit your changes (`git commit -am 'feat: Add some feature'`)    
-Don't forget to follow coding/commit rules  
+Don't forget to follow coding/commit conventions  
 5. Push to the branch (`git push origin my-new-feature`)  
 6. Create new *Pull Request*  
 
